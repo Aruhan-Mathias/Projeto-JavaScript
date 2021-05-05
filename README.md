@@ -44,4 +44,4 @@ Raiz Quadrada , Elevado a 2 , Elevado a 3 e Numero Pi.
 
 ---
 
-<div align="center"> Projeto Desenvolvido em Grupo: Aruhan, Aline e Weele </div>
+<div align="center"> Projeto Desenvolvido em Grupo: Aruhan, Aline e Weele. </div>
